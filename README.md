@@ -1,4 +1,4 @@
 EasyPass
 ========
 
-Gerenciador de senhas multiplataforma.
+Gerenciador de senhas para Android.
