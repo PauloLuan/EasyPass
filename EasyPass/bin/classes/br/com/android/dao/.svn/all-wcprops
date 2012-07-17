@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14/trunk/EasyPassRepository/src/br/com/android/dao
+END
+UserDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9/trunk/EasyPassRepository/src/br/com/android/dao/UserDAO.java
+END
+PasswordDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5/trunk/EasyPassRepository/src/br/com/android/dao/PasswordDAO.java
+END
+CreateDatabase.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14/trunk/EasyPassRepository/src/br/com/android/dao/CreateDatabase.java
+END

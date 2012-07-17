@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/widget33"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/Titulo_c"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:padding="5dp"
+        android:text="EasyPass - Cadastro"
+        android:textColor="#f00"
+        android:textSize="25sp" />
+
+    <EditText
+        android:id="@+id/txt_login_c"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Login"
+        android:padding="5dp"
+        android:textSize="18sp" />
+
+    <EditText
+        android:id="@+id/txt_pass_c"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Pass"
+        android:padding="5dp"
+        android:textSize="18sp" />
+
+    <EditText
+        android:id="@+id/txt_pass2_c"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Pass"
+        android:padding="5dp"
+        android:textSize="18sp" />
+
+    <EditText
+        android:id="@+id/txt_perg_c"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Pergunta Secreta"
+        android:padding="5dp"
+        android:textSize="18sp" />
+
+    <EditText
+        android:id="@+id/txt_resp_c"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Resposta"
+        android:padding="5dp"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/btn_cadastro_c"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:text="Cadastro"
+        android:textColor="#000"
+        android:textSize="18sp" />
+
+</TableLayout>
